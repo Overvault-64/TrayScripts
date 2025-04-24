@@ -1,4 +1,4 @@
-# TrayScripts
+# ⚡ TrayScripts
 
 TrayScripts is a lightweight application that creates an icon in the Windows system tray, allowing you to easily run PowerShell scripts and batch files with a click.
 
